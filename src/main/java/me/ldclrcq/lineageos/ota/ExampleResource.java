@@ -1,4 +1,4 @@
-package me.ldclrcq;
+package me.ldclrcq.lineageos.ota;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
